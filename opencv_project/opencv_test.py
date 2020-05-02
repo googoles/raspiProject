@@ -25,5 +25,3 @@ while cap.isOpened():
 cap.release()
 cv2.destroyAllWindows()
 
-
-# 출처: https://blog.xcoda.net/98?category=586774 [악보쓰는 프로그래머]
